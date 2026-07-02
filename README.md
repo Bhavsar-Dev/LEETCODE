@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0460-lfu-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -54,12 +55,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
