@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
@@ -49,4 +50,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
