@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0460-lfu-cache) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0460-lfu-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1032-stream-of-characters) |
@@ -107,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1032-stream-of-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1032-stream-of-characters) |
 ## Trie
@@ -132,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
 <!---LeetCode Topics End-->
