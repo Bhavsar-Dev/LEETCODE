@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0213-house-robber-ii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -236,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
