@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3123-find-edges-in-shortest-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0703-kth-largest-element-in-a-stream) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3123-find-edges-in-shortest-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Matrix
@@ -70,11 +72,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3123-find-edges-in-shortest-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
+| [3123-find-edges-in-shortest-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Linked List
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3123-find-edges-in-shortest-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3123-find-edges-in-shortest-paths) |
 ## Sorting
 |  |
 | ------- |
