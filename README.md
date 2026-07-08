@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1971-find-if-path-exists-in-graph](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3123-find-edges-in-shortest-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3123-find-edges-in-shortest-paths) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1971-find-if-path-exists-in-graph](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3123-find-edges-in-shortest-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3123-find-edges-in-shortest-paths) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3123-find-edges-in-shortest-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3123-find-edges-in-shortest-paths) |
 ## Sorting
