@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0704-binary-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0704-binary-search) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0162-find-peak-element) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0704-binary-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
