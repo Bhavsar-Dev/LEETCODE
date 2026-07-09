@@ -1,0 +1,29 @@
+class Solution {
+public:
+    bool dfs(int u, int c, vector<vector<int>>& adj, vector<int>& color) {
+        color[u] = c;
+        for(int v : adj[u]) {
+            if(color[v] == -1) {
+                if(!dfs(v, 1 - c, adj, color)) return false;
+            }
+            else if(color[v] == c) {
+                return false;
+            }
+        }
+        return true;
+    }
+    bool possibleBipartition(int n, vector<vector<int>>& dislikes) {
+        vector<vector<int>> adj(n + 1);
+        for(auto &e : dislikes) {
+            adj[e[0]].push_back(e[1]);
+            adj[e[1]].push_back(e[0]);
+        }
+        vector<int> color(n + 1, -1);
+        for(int i = 1; i <= n; i++) {
+            if(color[i] == -1) {
+                if(!dfs(i, 0, adj, color)) return false;
+            }
+        }
+        return true;
+    }
+};
