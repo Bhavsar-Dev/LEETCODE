@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0162-find-peak-element) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0374-guess-number-higher-or-lower](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -298,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
