@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0704-binary-search) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1032-stream-of-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1032-stream-of-characters) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0509-fibonacci-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0509-fibonacci-number) |
+| [0646-maximum-length-of-pair-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Greedy
+|  |
+| ------- |
+| [0646-maximum-length-of-pair-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 <!---LeetCode Topics End-->
