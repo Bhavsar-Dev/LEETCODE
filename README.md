@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3620-network-recovery-pathways) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0704-binary-search) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0509-fibonacci-number) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -322,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0062-unique-paths) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 ## Stack
 |  |
 | ------- |
@@ -352,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -368,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -379,4 +386,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
