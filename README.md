@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1032-stream-of-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1032-stream-of-characters) |
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0374-guess-number-higher-or-lower](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
