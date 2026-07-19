@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
