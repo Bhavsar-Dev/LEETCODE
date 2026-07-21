@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0072-edit-distance) |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0647-palindromic-substrings](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
