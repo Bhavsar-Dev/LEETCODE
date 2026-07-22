@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0056-merge-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0057-insert-interval) |
+| [0063-unique-paths-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
