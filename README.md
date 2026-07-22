@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
+| [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1288-remove-covered-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
+| [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -464,4 +468,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
+## Bitmask
+|  |
+| ------- |
+| [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 <!---LeetCode Topics End-->
