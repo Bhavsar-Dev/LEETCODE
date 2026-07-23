@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0930-binary-subarrays-with-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Array
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1032-stream-of-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1032-stream-of-characters) |
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -383,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0509-fibonacci-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
