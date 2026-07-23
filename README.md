@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [0424-longest-repeating-character-replacement](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0460-lfu-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0647-palindromic-substrings) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
