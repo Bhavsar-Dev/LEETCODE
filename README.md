@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0072-edit-distance](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0079-word-search) |
 | [0931-minimum-falling-path-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0099-recover-binary-search-tree) |
@@ -488,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0797-all-paths-from-source-to-target](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
