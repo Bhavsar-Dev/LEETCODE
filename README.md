@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1539-kth-missing-positive-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1539-kth-missing-positive-number) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 ## Interactive
 |  |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1291-sequential-digits) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0222-count-complete-tree-nodes) |
 | [0491-non-decreasing-subsequences](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0980-unique-paths-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0980-unique-paths-iii) |
+| [1601-maximum-number-of-achievable-transfer-requests](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
