@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
+| [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2421-number-of-good-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2421-number-of-good-paths) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Array
 |  |
@@ -510,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -587,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0980-unique-paths-iii) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
+| [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2305-fair-distribution-of-cookies](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
