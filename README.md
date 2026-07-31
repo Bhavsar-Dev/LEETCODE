@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2421-number-of-good-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2421-number-of-good-paths) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2421-number-of-good-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2421-number-of-good-paths) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Ordered Set
@@ -571,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -579,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Indexed Tree
