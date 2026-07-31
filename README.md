@@ -615,4 +615,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [2305-fair-distribution-of-cookies](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3149-find-the-minimum-cost-array-permutation) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
