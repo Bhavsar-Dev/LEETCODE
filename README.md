@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2421-number-of-good-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2421-number-of-good-paths) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2359-find-closest-node-to-given-two-nodes](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2359-find-closest-node-to-given-two-nodes) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2685-count-the-number-of-complete-components) |
 | [3123-find-edges-in-shortest-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3123-find-edges-in-shortest-paths) |
