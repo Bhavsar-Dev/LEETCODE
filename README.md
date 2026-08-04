@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0058-length-of-last-word](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0079-word-search) |
