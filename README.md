@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1032-stream-of-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1032-stream-of-characters) |
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1140-stone-game-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1288-remove-covered-intervals) |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1092-shortest-common-supersequence) |
+| [1140-stone-game-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1143-longest-common-subsequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1301-number-of-paths-with-max-score) |
 | [1335-minimum-difficulty-of-a-job-schedule](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1335-minimum-difficulty-of-a-job-schedule) |
@@ -476,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -546,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1420-build-array-where-you-can-find-the-maximum-exactly-k-comparisons) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -641,5 +645,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
