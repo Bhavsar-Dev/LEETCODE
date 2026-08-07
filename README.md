@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3356-zero-array-transformation-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3620-network-recovery-pathways](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3620-network-recovery-pathways) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
+| [3356-zero-array-transformation-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Divide and Conquer
 |  |
@@ -576,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1872-stone-game-viii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1872-stone-game-viii) |
 | [2381-shifting-letters-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
+| [3356-zero-array-transformation-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
