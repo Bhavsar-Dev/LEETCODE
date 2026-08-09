@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0139-word-break](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0146-lru-cache) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0516-longest-palindromic-subsequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0139-word-break) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0198-house-robber) |
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0139-word-break) |
 | [1032-stream-of-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1032-stream-of-characters) |
 ## Dynamic Programming
 |  |
@@ -392,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -526,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
@@ -706,4 +712,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1510-stone-game-iv) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
