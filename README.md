@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2381-shifting-letters-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2305-fair-distribution-of-cookies](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 | [2381-shifting-letters-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2381-shifting-letters-ii) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Math
 |  |
 | ------- |
@@ -667,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Bit Manipulation
