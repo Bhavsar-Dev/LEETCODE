@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0279-perfect-squares) |
 | [0433-minimum-genetic-mutation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0433-minimum-genetic-mutation) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0662-maximum-width-of-binary-tree) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0377-combination-sum-iv) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0509-fibonacci-number) |
@@ -742,4 +745,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0139-word-break) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
