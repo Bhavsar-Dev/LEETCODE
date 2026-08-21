@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0516-longest-palindromic-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0647-palindromic-substrings) |
+| [0688-knight-probability-in-chessboard](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0688-knight-probability-in-chessboard) |
 | [0834-sum-of-distances-in-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0834-sum-of-distances-in-tree) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0931-minimum-falling-path-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0931-minimum-falling-path-sum) |
