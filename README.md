@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
+| [1927-sum-game](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
 | [2381-shifting-letters-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2381-shifting-letters-ii) |
@@ -544,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3312-sorted-gcd-pair-queries) |
@@ -673,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1927-sum-game](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1927-sum-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Simulation
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1563-stone-game-v) |
 | [1690-stone-game-vii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1690-stone-game-vii) |
 | [1872-stone-game-viii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1872-stone-game-viii) |
+| [1927-sum-game](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1927-sum-game) |
 ## Minimax
 |  |
 | ------- |
