@@ -13,7 +13,7 @@ class Solution {
                 }
                 left++;
             }
-            while(left <= right && s.charAt(left) == '0') {
+            while(left < right && s.charAt(left) == '0') {
                 left++;
             }
             if(ones == k) {
