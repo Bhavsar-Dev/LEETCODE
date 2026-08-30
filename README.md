@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1911-maximum-alternating-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2187-minimum-time-to-complete-trips) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -691,6 +692,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1386-cinema-seat-allocation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1386-cinema-seat-allocation) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1927-sum-game](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
