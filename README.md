@@ -562,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1406-stone-game-iii) |
@@ -808,4 +809,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0279-perfect-squares) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
