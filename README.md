@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1061-lexicographically-smallest-equivalent-string](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1061-lexicographically-smallest-equivalent-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1092-shortest-common-supersequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1092-shortest-common-supersequence) |
+| [1096-brace-expansion-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1143-longest-common-subsequence](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0886-possible-bipartition) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1096-brace-expansion-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1443-minimum-time-to-collect-all-apples-in-a-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1443-minimum-time-to-collect-all-apples-in-a-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1971-find-if-path-exists-in-graph) |
@@ -547,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0853-car-fleet) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
+| [1096-brace-expansion-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -635,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0853-car-fleet) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1096-brace-expansion-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -695,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0491-non-decreasing-subsequences](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0797-all-paths-from-source-to-target](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0797-all-paths-from-source-to-target) |
 | [0980-unique-paths-iii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0980-unique-paths-iii) |
+| [1096-brace-expansion-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1096-brace-expansion-ii) |
 | [1601-maximum-number-of-achievable-transfer-requests](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1601-maximum-number-of-achievable-transfer-requests) |
 | [2305-fair-distribution-of-cookies](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
