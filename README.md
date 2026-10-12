@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2421-number-of-good-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2421-number-of-good-paths) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [2421-number-of-good-paths](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2421-number-of-good-paths) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -757,6 +759,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -796,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [1763-longest-nice-substring](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1763-longest-nice-substring) |
 | [2305-fair-distribution-of-cookies](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
