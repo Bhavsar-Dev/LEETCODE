@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3524-find-x-value-of-array-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3620-network-recovery-pathways) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -806,6 +809,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Bitmask
 |  |
 | ------- |
