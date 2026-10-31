@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3620-network-recovery-pathways](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
+| [3665-twisted-mirror-path-count](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3363-find-the-maximum-number-of-fruits-collected](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3363-find-the-maximum-number-of-fruits-collected) |
 | [3524-find-x-value-of-array-i](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3524-find-x-value-of-array-i) |
 | [3620-network-recovery-pathways](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3620-network-recovery-pathways) |
+| [3665-twisted-mirror-path-count](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Topological Sort
 |  |
