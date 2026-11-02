@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0377-combination-sum-iv) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0491-non-decreasing-subsequences](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0491-non-decreasing-subsequences) |
 | [0560-subarray-sum-equals-k](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0560-subarray-sum-equals-k) |
@@ -574,6 +575,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0056-merge-intervals) |
 | [0368-largest-divisible-subset](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0368-largest-divisible-subset) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0646-maximum-length-of-pair-chain) |
 | [0853-car-fleet](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0853-car-fleet) |
@@ -607,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0279-perfect-squares) |
 | [0368-largest-divisible-subset](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0368-largest-divisible-subset) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/DevBhavsar2901/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
