@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2381-shifting-letters-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2381-shifting-letters-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -531,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2305-fair-distribution-of-cookies](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2305-fair-distribution-of-cookies) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2926-maximum-balanced-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2926-maximum-balanced-subsequence-sum) |
 | [3149-find-the-minimum-cost-array-permutation](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3149-find-the-minimum-cost-array-permutation) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1048-longest-string-chain) |
 | [1755-closest-subsequence-sum](https://github.com/DevBhavsar2901/LEETCODE/tree/master/1755-closest-subsequence-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/DevBhavsar2901/LEETCODE/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3356-zero-array-transformation-ii](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3356-zero-array-transformation-ii) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DevBhavsar2901/LEETCODE/tree/master/3867-sum-of-gcd-of-formed-pairs) |
